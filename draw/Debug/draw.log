@@ -1,0 +1,11 @@
+﻿  draw2.cpp
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(57,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(74,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(185,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(226,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(242,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(265,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(278,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(1063,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\tp-2022-mjankowski22\draw\draw2.cpp(1115,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  draw.vcxproj -> C:\Users\user\Desktop\tp-2022-mjankowski22\Debug\draw2.exe
